@@ -1,5 +1,5 @@
 # Nɬab Glossing Guidelines
-#### Compiled by Anna Stacey
+##### Compiled by Anna Stacey
 
 Based on a four-line gloss style (i.e., transcription, segmentation, gloss, translation).
 
@@ -12,7 +12,7 @@ Our starting point was provided by the Nɬeʔkepmxcín grammar (Thompson and Th
 
 ## Morpheme Boundaries
 
-Boundary types should match between segmentation and gloss lines.  
+Morpheme boundaries should match between the segmentation and gloss lines.  Boundary types (i.e., which symbol is used) should also match.  
 Word boundaries should match between transcription, segmentation, and gloss lines (with the exception of clitics, as explained [below](#clitics])).
 
 #### Regular Morphemes
