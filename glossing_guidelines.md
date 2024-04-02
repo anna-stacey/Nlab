@@ -118,7 +118,7 @@ say-TR+3OBJ+3ERG
 
 Both options convey what's going on, they just differ in how much they unpack the morphology and prioritize what's underlying.  We have decided to go with the first option above, with the following general guidelines in place:
 - Write the transcription line as pronounced.
-- Include underlying forms in the segmentation (and gloss) lines.  This is, of course, referring to cases where you can know a morpheme must be there even when it's not realized (e.g., the transitivizer must be present if we have transitive agreement suffixes).
+- Include underlying forms in the segmentation (and gloss) lines.  This refers to to cases where you can know a morpheme must be there even when it's not realized (e.g., the transitivizer must be present if we have transitive agreement suffixes).
     - If the morpheme is completely unrealized in the transcription line, include it (and the relevant boundary) in square brackets.  For example:
         > náq̓ʷms  
         náq̓ʷ-m[in]**[-t]**-∅-s  
@@ -134,7 +134,7 @@ Both options convey what's going on, they just differ in how much they unpack th
 - Include null morphemes (with ∅ in the segmentation line, and no special treatment in the gloss line).  These convey important information to the reader!
 - No brackets used in the gloss line - the gloss for a bracketed morpheme can be written as normal.
 
-## Glosses and Underlying Representations (for Grams)
+## Glosses and Underlying Representations (for Grammatical Morphemes)
 ### Non-Leipzig Glosses
 - <u>ACHV (achievement): x</u>
 - <u>ADD (additive): ƛuʔ</u>
@@ -152,7 +152,7 @@ Both options convey what's going on, they just differ in how much they unpack th
 - <u>DISC (discourse marker): ʔo</u>
 - <u>DSCR (descriptive): tək</u>
 - <u>DVL (developmental): wiʔx</u>
-- EMPH (emphatic):
+- EMPH (emphatic): cə, wiʔ
     |  Gloss | Form  |
     |---|---|
     | **1SG**.EMPH | ncéweʔ |
@@ -160,7 +160,7 @@ Both options convey what's going on, they just differ in how much they unpack th
     | <u>**3SG**.EMPH</u> | cníɬ |
     | **1PL**.EMPH | nmímɬ |
     | <u>**2PL**.EMPH</u> | pyépst |
-    | <u>**3PL**EMPH</u> | cənkʷúst |
+    | <u>**3PL**.EMPH</u> | cənkʷúst |
 - <u>EXCM (exclamatory): téywey, ʔú</u>
 - <u>FMV (formative): e</u>
 - IMM (immediate): t
@@ -188,7 +188,7 @@ Both options convey what's going on, they just differ in how much they unpack th
 
 ### Leipzig Glosses
 - CAUS (causative): s
-- <u>COMP (complementizer)/HYP (hypothetical)</u>: ʔe
+- <u>COMP (complementizer) / HYP (hypothetical)</u>: ʔe
 - COMPL (completive): ƛ̓əm̓
 - DET (determiner): he, k, ɬ
 - ERG (ergative):
@@ -199,7 +199,6 @@ Both options convey what's going on, they just differ in how much they unpack th
     | **1PL**.ERG | em |
     | **2PL**.ERG | ep |
     | **3**ERG | es |
-    | **INDF**.ERG | em |
 - IPFV (imperfective): ʔex
 - <u>INS (instrumental): tn</u>
 - LOC (locative): n
@@ -210,7 +209,7 @@ Both options convey what's going on, they just differ in how much they unpack th
     |---|---|
     | **1SG**.OBJ | cem |
     | **2SG**.OBJ | si |
-    | **1PL**.OBJ | i (ey?) |
+    | **1PL**.OBJ | <u>ey</u> |
     | **2PL**.OBJ | im |
     | **3**OBJ | ∅ |
 - OBL (oblique): te
