@@ -3,7 +3,7 @@
 
 Based on a four-line gloss style (i.e., transcription, segmentation, gloss, translation).
 
-Unless otherwise specified, examples are from Hannon et al. (2023).  Speaker abbreviations are:
+Unless otherwise specified, examples are from Hannon et al. (2023).  Examples are marked with the initals of their speaker, as follows:
  - CMA: *C̓úʔsinek* (Marty Aspinall)
  - BP: Bev Phillips
  - KBG: *Kʷəɬtèzetkʷuʔ* (Bernice Garcia)
@@ -12,14 +12,15 @@ Our starting point was provided by the Nɬeʔkepmxcín grammar (Thompson and Th
 
 ## Morpheme Boundaries
 
-Boundary types should match between segmentation and gloss lines.
+Boundary types should match between segmentation and gloss lines.  
+Word boundaries should match between transcription, segmentation, and gloss lines (with the exception of clitics, as explained [below](#clitics])).
 
 #### Regular Morphemes
 The hyphen (-) is the default boundary used to separate morphemes.  
 Note that this includes lexical suffixes, as they are not indicated by their own boundary type (unlike for Thompson and Thompson (1992, 1996), who used '=' for this purpose).
 
-#### Reduplication
-Reduplication is marked with a tilde (~), unless the morpheme is also an infix, in which case it justs get infixing marking (see next section).  Reduplicating affixes are:
+#### Reduplicating Morphemes
+Reduplication is marked with a tilde (~), unless the morpheme is also an infix, in which case it justs get infixing marking (see [next section](#infixes)).  Reduplicating affixes are:
 - the affectative (AFF~)
 - <u>the augmentative (AUG~) / plural (PL~)</u>
 - the characteristic (~CHR)
@@ -50,7 +51,7 @@ easy&ZeroWidthSpace;**\<DIM>**-CTR.MID DEM OBL=DET=NMLZ-do D/C=bake.bread-CTR.MI
 Clitics are marked with an equals sign (=).  The following morphemes are clitics:
 - possessive morphology (1SG.POSS=, =3POSS, etc.) on clauses, but not on noun phrases
 - intransitive subject-markers (=1SG.SBJ, etc.)
-- conjunctive morphology (=1SG.SBJV, =3SBJV, etc.)
+- subjunctive morphology (=1SG.SBJV, =3SBJV, etc.)
 - complementizers <u>(COMP=/HYP=)</u>
 - determiners (DET=)
 - determiner/complementizers (D/C=)
@@ -63,13 +64,13 @@ Clitics are marked with an equals sign (=).  The following morphemes are clitics
 
 Note that clitics are the one case where there can be discrepancies in **word boundaries** between the transcription line vs. the segmentation and gloss lines.  Consider the example below.  The clitic *e=* 'DET' is written as a separate word in the transcription line, but attached to the stem in the segmentation and gloss lines.  But this is not the case for all clitics, as *s=* 'NMLZ' is attached to the stem in all three lines.  In summary, all clitics will be attached to the stem in the segmentation and gloss lines, but whether or not they're attched in the transcription line is just based on orthographic convention and varies by clitic.
 > ʔeɬ xeym tʔé tʔé témn̓ **s**wéwtiyxs **e** séytknmx kwntiyxs e néʔ eh s ʔe sutn  
-ʔeɬ xeym tʔé tʔé témn̓ **s=**&ZeroWidthSpace;wéw-t=iyxs **e=**&ZeroWidthSpace;séytkn-mx kwn-t=iyxs e=néʔ eh s ʔe=sutn  
-and indeed DEM DEM then **NMLZ=**&ZeroWidthSpace;call-TR=3PL **DET=**&ZeroWidthSpace;people-person get-TR=3PL D/C=DEM eh s DET=thing  
+ʔeɬ xeym tʔé tʔé témn̓ **s=**&ZeroWidthSpace;wéw[-n]-t-∅-iyxs **e=**&ZeroWidthSpace;séytkn-mx kwn[-n]-t-∅-iyxs e=néʔ eh s ʔe=sutn  
+and indeed DEM DEM then **NMLZ=**&ZeroWidthSpace;call-CTR-TR-3OBJ-3PL.ERG **DET=**&ZeroWidthSpace;people-person get-CTR-TR-3OBJ-3PL.ERG D/C=DEM eh s DET=thing  
 ‘Long time ago, when the women used to gather and dance, they would call the people, and they grabbed something.’ (CMA)
 
 Clitics that are **separate** in the transcription line (like *e=* 'DET' above) are:
 - intransitive subject-markers
-- conjunctive morphology
+- subjunctive morphology
 - determiners
 - determiner/complementizers
 - evidentials
@@ -106,15 +107,13 @@ also very good **OBL=DET**=NMLZ-eat-tooth
 ## Capturing Unrealized Morphology
 Because of phonological processes, there is often a conflict between wanting to capture what is pronounced vs. what is underlying.  This frequently comes up with transitive morphology.  For example, consider a transitive form of *cún* 'say':
 > cúnc  
-cún-t-∅-es  
-say-TR-3.OBJ-3.ERG  
-'She said (to her).'
+cún[-n]-t-∅-es  
+say-CTR-TR-3.OBJ-3.ERG  
 
 There are lots of decisions involved in how to display this word.  Assuming we want the transcription line to be true to what was said, then we will leave it as is.  But rather than breaking down the segmentation as above, we could imagine something like:
 > cúnc  
 cún-c  
-say-TR+3OBJ+3ERG  
-'She said (to her).'
+say-CTR+TR+3OBJ+3ERG  
 
 Both options convey what's going on, they just differ in how much they unpack the morphology and prioritize what's underlying.  We have decided to go with the first option above, with the following general guidelines in place:
 - Write the transcription line as pronounced.
@@ -170,7 +169,7 @@ Both options convey what's going on, they just differ in how much they unpack th
 - INFER (inferring evidential): nke
 - <u>INH (inherent): peɬ</u>
 - INT (introductory): e
-- LC (limited control): nwén̓
+- LC (limited control (transitive with -t)): nwén̓
 - LC.MID (limited control middle): nwéɬn
 - <u>MOD (modal): ƛ̓əp</u>
 - <u>NEUT (neutral): ʔ</u>
@@ -186,7 +185,7 @@ Both options convey what's going on, they just differ in how much they unpack th
 - SENSE (sensing evidential): nukʷ
 - STAT (stative): ʔes
 
-### Leipzig Glosses
+### Leipzig Glosses (Comrie et al., 2008)
 - CAUS (causative): s
 - <u>COMP (complementizer) / HYP (hypothetical)</u>: ʔe
 - COMPL (completive): ƛ̓əm̓
@@ -243,6 +242,8 @@ Both options convey what's going on, they just differ in how much they unpack th
     | **3**SBJV | us |
 
 ## References
+Comrie, Bernard, Martin Haspelmath, and Balthasar Bickel. 2008.  The Leipzig Glossing Rules: Conventions for interlinear morpheme-by-morpheme glosses.
+
 Hall, Brent. 2023. A Brief Look at Infinitives in Nɬeʔkepmxcín. In Proceedings of the 58th International Conference on Salish and Neighbouring Languages (ICSNL), 85–93. Vancouver, Canada: University of British Columbia Working Papers in Linguistics.
 
 Hannon, Ella, Anna Stacey, and Reed Steiner. 2023. Glossed Conversational Data in Nɬeʔkepmxcín. In Proceedings of the 58th International Conference on Salish and Neighbouring Languages (ICSNL), 117–158. Vancouver, Canada: University of British Columbia Working Papers in Linguistics.
