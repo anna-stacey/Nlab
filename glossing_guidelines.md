@@ -13,7 +13,7 @@ Our starting point was provided by the Nɬeʔkepmxcín grammar (Thompson and Th
 ## Morpheme Boundaries
 
 Morpheme boundaries should match between the segmentation and gloss lines.  Boundary types (i.e., which symbol is used) should also match.  
-Word boundaries should match between transcription, segmentation, and gloss lines (with the exception of clitics, as explained [below](#clitics])).
+Word boundaries should match between transcription, segmentation, and gloss lines (with the exception of clitics, as explained [below](#clitics)).
 
 #### Regular Morphemes
 The hyphen (-) is the default boundary used to separate morphemes.  
