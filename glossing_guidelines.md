@@ -138,7 +138,6 @@ Both options convey what's going on, they just differ in how much they unpack th
 - <u>ACHV (achievement): x</u>
 - <u>ADD (additive): ƛuʔ</u>
 - AFF (affective): reduplicating i.e., no canonical form
-- <u>ANT (anticipatory): ʔe</u>
 - AUG (augmentative) (sometimes PL, plural): reduplicating i.e., no canonical form
 - AUT (autonomous): ix
 - <u>CHR (characteristic): reduplicating i.e., no canonical form</u>
@@ -149,37 +148,33 @@ Both options convey what's going on, they just differ in how much they unpack th
 - D/C (determiner/complementizer): he, k, ɬ
 - DIM (diminuitive): reduplicating i.e., no canonical form
 - <u>DISC (discourse marker): ʔo</u>
-- <u>DSCR (descriptive): tək</u>
 - <u>DVL (developmental): wiʔx</u>
 - EMPH (emphatic): cə, wiʔ
-    |  Gloss | Form  |
-    |---|---|
-    | **1SG**.EMPH | ncéweʔ |
-    | <u>**2SG**.EMPH</u> | heʔwí |
-    | <u>**3SG**.EMPH</u> | cníɬ |
-    | **1PL**.EMPH | nmímɬ |
-    | <u>**2PL**.EMPH</u> | pyépst |
-    | <u>**3PL**.EMPH</u> | cənkʷúst |
 - <u>EXCM (exclamatory): téywey, ʔú</u>
-- <u>FMV (formative): e</u>
 - IMM (immediate): t
 - INCH (inchoative): p, or reduplicating i.e., no canonical form
-- INCIP (incipient): nes
 - IND (indirective applicative): x [needs a new gloss b/c IND is Leipzig for indicative]
+- INDEP (independent):
+    |  Gloss | Form  |
+    |---|---|
+    | **1SG**.INDEP | ncéweʔ |
+    | <u>**2SG**.INDEP</u> | heʔwí |
+    | <u>**3SG**.INDEP</u> | cníɬ |
+    | **1PL**.INDEP | nmímɬ |
+    | <u>**2PL**.INDEP</u> | pyépst |
+    | <u>**3PL**.INDEP</u> | cənkʷúst |
 - INFER (inferring evidential): nke
-- <u>INH (inherent): peɬ</u>
 - INT (introductory): e
 - LC (limited control (transitive with -t)): nwén̓
 - LC.MID (limited control middle): nwéɬn
 - <u>MOD (modal): ƛ̓əp</u>
-- <u>NEUT (neutral): ʔ</u>
 - <u>OOC (out-of-control): reduplicating i.e., no canonical form</u>
 - PROSP (prospective): xʷúy̓
 - PRP (proportional): reduplicating i.e., no canonical form
 - <u>PRSM (presumptive): ske</u>
 - <u>Q/INDF</u> (question/indefinite): hén̓</u>
 - <u>QLT (qualitative): t</u>
-- REP (reportative evidential): ekʷu
+- RPRT (reportative evidential): ekʷu
 - <u>RFM (reaffiramtive): ʔúy</u>
 - <u>RLA (relative agent marker): mus</u>
 - SENSE (sensing evidential): nukʷ
@@ -199,7 +194,7 @@ Both options convey what's going on, they just differ in how much they unpack th
     | **2PL**.ERG | ep |
     | **3**ERG | es |
 - IPFV (imperfective): ʔex
-- <u>INS (instrumental): tn</u>
+- <u>INS (instrumental): tn, mn</u>
 - LOC (locative): n
 - NEG (negation): teʔ, tem
 - NMLZ (nominalizer): s
@@ -221,7 +216,6 @@ Both options convey what's going on, they just differ in how much they unpack th
     | **1PL**.POSS | kt |
     | **2PL**.POSS | mp |
     | **3**POSS | s |
-- <u>PROG (progressive): ʔex</u>
 - Q (question marker): keʔ, n̓
 - REFL (reflexive): cut
 - <u>RES (resultative): e</u>
@@ -231,7 +225,7 @@ Both options convey what's going on, they just differ in how much they unpack th
     | **1SG**.SBJ | kn |
     | **2SG**.SBJ | kʷ |
     | **1PL**.SBJ | kt |
-    | <u>**2PL**.SBJ</u> | kp |
+    | **2PL**.SBJ | kp |
 - SBJV (subjunctive):
     |  Gloss | Form  |
     |---|---|
