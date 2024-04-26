@@ -193,6 +193,7 @@ Both options convey what's going on, they just differ in how much they unpack th
     | **1PL**.ERG | em |
     | **2PL**.ERG | ep |
     | **3**ERG | es |
+- EXCL (exclusive): ƛ̓uʔ
 - IPFV (imperfective): ʔex
 - <u>INS (instrumental): tn, mn</u>
 - LOC (locative): n
