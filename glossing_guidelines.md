@@ -188,11 +188,11 @@ Both options convey what's going on, they just differ in how much they unpack th
 - ERG (ergative):
     |  Gloss | Form  |
     |---|---|
-    | **1SG**.ERG | ene |
-    | **2SG**.ERG | exʷ |
-    | **1PL**.ERG | em |
-    | **2PL**.ERG | ep |
-    | **3**ERG | es |
+    | **1SG**.ERG | -ene |
+    | **2SG**.ERG | -exʷ |
+    | **1PL**.ERG | -em |
+    | **2PL**.ERG | -ep |
+    | **3**ERG | -es |
 - EXCL (exclusive): ƛ̓uʔ
 - IPFV (imperfective): ʔex
 - <u>INS (instrumental): tn, mn</u>
@@ -202,39 +202,39 @@ Both options convey what's going on, they just differ in how much they unpack th
 - OBJ (object):
     |  Gloss | Form  |
     |---|---|
-    | **1SG**.OBJ | cem |
-    | **2SG**.OBJ | si |
-    | **1PL**.OBJ | <u>ey</u> |
-    | **2PL**.OBJ | im |
-    | **3**OBJ | ∅ |
+    | **1SG**.OBJ | -cem |
+    | **2SG**.OBJ | -si |
+    | **1PL**.OBJ | -<u>ey</u> |
+    | **2PL**.OBJ | -im |
+    | **3**OBJ | -∅ |
 - OBL (oblique): te
 - <u>PASS (passive): em</u>
 - POSS (possessive):
     |  Gloss | Form  |
     |---|---|
-    | **1SG**.POSS | n |
-    | **2SG**.POSS | eʔ |
-    | **1PL**.POSS | kt |
-    | **2PL**.POSS | mp |
-    | **3**POSS | s |
+    | **1SG**.POSS | n= |
+    | **2SG**.POSS | eʔ= |
+    | **1PL**.POSS | =kt |
+    | **2PL**.POSS | =mp |
+    | **3**POSS | =s |
 - Q (question marker): keʔ, n̓
 - REFL (reflexive): cut
 - <u>RES (resultative): e</u>
 - SBJ (subject):
     |  Gloss | Form  |
     |---|---|
-    | **1SG**.SBJ | kn |
-    | **2SG**.SBJ | kʷ |
-    | **1PL**.SBJ | kt |
-    | **2PL**.SBJ | kp |
+    | **1SG**.SBJ | =kn |
+    | **2SG**.SBJ | =kʷ |
+    | **1PL**.SBJ | =kt |
+    | **2PL**.SBJ | =kp |
 - SBJV (subjunctive):
     |  Gloss | Form  |
     |---|---|
-    | **1SG**.SBJV | un |
-    | **2SG**.SBJV | uxʷ |
-    | <u>**1PL**.SBJV</u> | ut |
-    | <u>**2PL**.SBJV</u> | up |
-    | **3**SBJV | us |
+    | **1SG**.SBJV | =un |
+    | **2SG**.SBJV | =uxʷ |
+    | <u>**1PL**.SBJV</u> | =ut |
+    | <u>**2PL**.SBJV</u> | =up |
+    | **3**SBJV | =us |
 
 ## References
 Comrie, Bernard, Martin Haspelmath, and Balthasar Bickel. 2008.  The Leipzig Glossing Rules: Conventions for interlinear morpheme-by-morpheme glosses.
