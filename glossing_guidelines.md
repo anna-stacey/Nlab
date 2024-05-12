@@ -235,6 +235,14 @@ Both options convey what's going on, they just differ in how much they unpack th
     | <u>**1PL**.SBJV</u> | =ut |
     | <u>**2PL**.SBJV</u> | =up |
     | **3**SBJV | =us |
+  
+## FAQ
+### Locatives and Friends
+As locatives/prepositions are a common point of confusion, we agreed on the following current practices:
+- LOC (locative): n-
+- at: n=
+- from: tu=
+- to: w=
 
 ## References
 Comrie, Bernard, Martin Haspelmath, and Balthasar Bickel. 2008.  The Leipzig Glossing Rules: Conventions for interlinear morpheme-by-morpheme glosses.
