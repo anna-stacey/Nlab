@@ -174,6 +174,7 @@ Both options convey what's going on, they just differ in how much they unpack th
 - <u>PRSM (presumptive): ske</u>
 - <u>Q/INDF</u> (question/indefinite): hén̓</u>
 - <u>QLT (qualitative): t</u>
+- RLT (relational): min
 - RPRT (reportative evidential): ekʷu
 - <u>RFM (reaffiramtive): ʔúy</u>
 - <u>RLA (relative agent marker): mus</u>
