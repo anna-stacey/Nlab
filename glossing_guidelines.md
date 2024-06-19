@@ -182,6 +182,7 @@ Both options convey what's going on, they just differ in how much they unpack th
 - STAT (stative): ʔes
 
 ### Leipzig Glosses (Comrie et al., 2008)
+- BEN (benefactive): x(i) [to be reviewed; a.k.a. 'indirective']
 - CAUS (causative): s
 - <u>COMP (complementizer) / HYP (hypothetical)</u>: ʔe
 - COMPL (completive): ƛ̓əm̓
