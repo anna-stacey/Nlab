@@ -21,7 +21,7 @@ Note that this includes lexical suffixes, as they are not indicated by their own
 
 #### Reduplicating Morphemes
 Reduplication is marked with a tilde (~), unless the morpheme is also an infix, in which case it justs get infixing marking (see [next section](#infixes)).  Reduplicating affixes are:
-- the affectative (AFF~)
+- initial reduplication (IRED~)
 - <u>the augmentative (AUG~) / plural (PL~)</u>
 - the characteristic (~CHR)
 - the diminuitive (\<DIM\>)
@@ -30,8 +30,8 @@ Reduplication is marked with a tilde (~), unless the morpheme is also an infix, 
 
 For example:
 > ʔeɬ e **ʔe**ʔúseʔs nem y̓emíns xéʔe  
-ʔeɬ e=**ʔe~**&ZeroWidthSpace;ʔ-úseʔ-s nem y̓e-mín-[t]-∅-s xéʔe  
-and DET=**AFF~**&ZeroWidthSpace;NEUT-small.round.object-3POSS very good-RLT-TR-3OBJ-3ERG DEM  
+ʔeɬ e=**ʔe~**&ZeroWidthSpace;ʔúseʔ-s nem y̓e-mín-[t]-∅-[e]s xéʔe  
+and DET=**IRED~**&ZeroWidthSpace;egg-3POSS very good-RLT-TR-3OBJ-3ERG DEM  
 ‘And the duck eggs, he really liked those.’ (KBG)
 
 #### Infixes
@@ -39,28 +39,37 @@ Infixes are marked with angle brackets (<>).  Infixes are:
 - the diminuitive (\<DIM\>)
 - the inchoative *ʔ* (not *ə́p*) (\<INCH\>)
 - the plural (\<PL\>)
- 
+Plus the following, which can be either infixes *or* suffixes depending on the characteristics of the stem (T&T 1992:88-89, 99, 111):
+- the characteristic (~CHR)
+- the out-of-control (~OOC)
+- the proportional (~PRP)
+
 For example:
-> ƛ̓é**ƛ̓**zm xéʔe tk scúw e záq̓m tuw e píx̣m.  
-ƛ̓é&ZeroWidthSpace;**\<ƛ̓>**&ZeroWidthSpace;z-m xéʔe t=k=s-cúw e=záq̓-m tuw=e=píx̣-m  
-easy&ZeroWidthSpace;**\<DIM>**-CTR.MID DEM OBL=DET=NMLZ-do D/C=bake.bread-CTR.MID than=D/C=hunt-CTR.MID  
+> ƛ̓é**ƛ̓**zm xéʔe tk scúw e záq̓m tuw e píx̣m̓.  
+ƛ̓é&ZeroWidthSpace;**\<ƛ̓>**&ZeroWidthSpace;z-m xéʔe t=k=s-cúw e=záq̓-m tuw=e=píx̣-m̓  
+easy&ZeroWidthSpace;**\<DIM>**-CTR.MID DEM OBL=DET=NMLZ-do D/C=bake.bread-CTR.MID from=D/C=hunt-CTR.MID  
 ‘It’s easier to bake bread than to hunt.’
 (Hall, 2023; BP)
 
 #### Clitics
 Clitics are marked with an equals sign (=).  The following morphemes are clitics:
-- possessive morphology (1SG.POSS=, =3POSS, etc.) on clauses, but not on noun phrases
-- intransitive subject-markers (=1SG.SBJ, etc.)
-- subjunctive morphology (=1SG.SBJV, =3SBJV, etc.)
+- possessive subject-markers (1SG.POSS=, =3POSS, etc.) on complement clauses, but not on noun phrases or relative clauses
+- indicative subject-markers (=1SG.SBJ, etc.)
+- subjunctive subject-markers (=1SG.SBJV, =3SBJV, etc.)
+- the additive (=ADD)
+- the consequential (=CNSQ)
 - complementizers <u>(COMP=/HYP=)</u>
+- the completive (=COMPL)
 - determiners (DET=)
 - determiner/complementizers (D/C=)
+- the emphatic (=EMPH) (*wiʔ*, not *cə*)
+- the exclusive (=EXCL)
 - evidentials (=INFER, =RPRT, =SENSE)
-- from/than (from=/than=)
-- <u>the locative (LOC=) only when used as a preposition</u>
-- the nominalizer (NMLZ=) on clauses, but not on NPs
-- the oblique marker (OBL=)
+- the nominalizer (NMLZ=) on complement clauses, but not on NPs or relative clauses
+- prepositions: 'at' (i.e., n=), 'from' (i.e., tu=), the oblique marker (OBL=), etc. (T&T, 1992:155)
 - the question marker *n̓* (not *keʔ*) (=Q)
+- the weak necessity modals (=WN)
+- 'yet'/'still' (i.e., =y̓)
 
 Note that clitics are the one case where there can be discrepancies in **word boundaries** between the transcription line vs. the segmentation and gloss lines.  Consider the example below.  The clitic *e=* 'DET' is written as a separate word in the transcription line, but attached to the stem in the segmentation and gloss lines.  But this is not the case for all clitics, as *s=* 'NMLZ' is attached to the stem in all three lines.  In summary, all clitics will be attached to the stem in the segmentation and gloss lines, but whether or not they're attched in the transcription line is just based on orthographic convention and varies by clitic.
 > ʔeɬ xeym tʔé tʔé témn̓ **s**wéwtiyxs **e** séytknmx kwntiyxs e néʔ eh s ʔe sutn  
@@ -68,23 +77,22 @@ Note that clitics are the one case where there can be discrepancies in **word bo
 and indeed DEM DEM then **NMLZ=**&ZeroWidthSpace;call-CTR-TR-3OBJ-3PL.ERG **DET=**&ZeroWidthSpace;people-person get-CTR-TR-3OBJ-3PL.ERG D/C=DEM eh s DET=thing  
 ‘Long time ago, when the women used to gather and dance, they would call the people, and they grabbed something.’ (CMA)
 
-Clitics that are **separate** in the transcription line (like *e=* 'DET' above) are:
-- intransitive subject-markers
-- subjunctive morphology
+Clitics that are **separate** from their host in the transcription line (like *e=* 'DET' above) are:
+- indicative subject-markers
+- subjunctive subject-markers
 - determiners
 - determiner/complementizers
 - evidentials
-- the oblique marker
 - the question marker
+- prepositions (OBL, etc.)
 
-Clitics that are **attached** in the transcription line (like *s=* 'NMLZ' above) are:
-- possessive morphology
-- the locative
+Clitics that are **attached** to their host in the transcription line (like *s=* 'NMLZ' above) are:
+- possessive subject-markers
 - the nominalizer
 
 Finally, some clitic clusters are written in the transcription line separate from their stem, but attached to one another.  For example, this is typical with combinations of OBL and a DET or D/C:
->ƛ̓uʔ nem y̓e **tək** sɬaʔx̣áns  
-ƛ̓uʔ nem y̓e **tə=k**=s-ɬaʔx̣-áns  
+>ƛ̓uʔ nem y̓e **tk** sɬaʔx̣áns  
+ƛ̓uʔ nem y̓e **t=k**=s-ɬaʔx̣-áns  
 also very good **OBL=DET**=NMLZ-eat-tooth  
 ‘They are good to eat.’ (CMA)
 
@@ -92,15 +100,15 @@ also very good **OBL=DET**=NMLZ-eat-tooth
 
 - *k=eʔ= (k=éʔ=)* (always x6) (D/C=2SG.POSS=)
 - *k=s=* (sometimes) (D/C=NMLZ=)
-- *n=e=* (sometimes) (in=DET=)
+- *n=e=* (sometimes) (at=DET=)
 - *t=e=* (sometimes) (OBL=DET=)
 - *t=ə=* (always) (OBl=DET=)
 - *te=k=* (always x1) (OBL=DET=)
 - *tə=k=* (always) (OBL=DET=, OBL=D/C=)
 - *t=k=* (almost always) (OBL=DET=)
-- *təw=e* (always x2) (PREP=D/C=)
+- *təw=e* (always x2) (from=D/C=)
 - *w=e=* (sometimes) (to=DET=)
-- *we=ɬ* (always x2) (PREP=DET=)
+- *we=ɬ* (always x2) (to=DET=)
 - *k=e=s=* (x1) (D/C=IPFV=NMLZ=)
 - *t=e=s=* (x1) (OBL=DET=NMLZ=)
 
@@ -120,7 +128,7 @@ Both options convey what's going on, they just differ in how much they unpack th
 - Include underlying forms in the segmentation (and gloss) lines.  This refers to to cases where you can know a morpheme must be there even when it's not realized (e.g., the transitivizer must be present if we have transitive agreement suffixes).
     - If the morpheme is completely unrealized in the transcription line, include it (and the relevant boundary) in square brackets.  For example:
         > náq̓ʷms  
-        náq̓ʷ-m[in]**[-t]**-∅-s  
+        náq̓ʷ-m[in]**[-t]**-∅-[e]s  
         steal-RLT-TR-3OBJ-3ERG
     - If the morpheme is partly realized in the gloss line, include the full morpheme in the segmentation line and put just the unrealized part in brackets.  For example:
         > náq̓ʷms  
@@ -180,6 +188,7 @@ Both options convey what's going on, they just differ in how much they unpack th
 - <u>RLA (relative agent marker): mus</u>
 - SENSE (sensing evidential): nukʷ
 - STAT (stative): ʔes
+- WN (weak necessity modal): seʔ, ske
 
 ### Leipzig Glosses (Comrie et al., 2008)
 - BEN (benefactive): x(i) [to be reviewed; a.k.a. 'indirective']
