@@ -23,14 +23,14 @@ Note that this includes lexical suffixes, as they are not indicated by their own
 Reduplication is marked with a tilde (~), unless the morpheme is also an infix, in which case it just gets infixing marking (see [next section](#infixes)).  Reduplicating affixes are:
 - initial reduplication (IRED~)
 - <u>the augmentative (AUG~) / plural (PL~)</u>
-- the characteristic (~CHR)
+- the characteristic (~CHR or \<CHR\>)
 - the diminuitive (\<DIM\>)
-- the out-of-control (~OOC)
-- the proportional (~PRP)
+- the out-of-control (~OOC or \<OOC\>)
+- the proportional (~PRP or \<PRP\>)
 
 For example:
-> ʔeɬ e **ʔe**ʔúseʔs nem y̓emíns xéʔe  
-ʔeɬ e=**ʔe~**&ZeroWidthSpace;ʔúseʔ-s nem y̓e-mín-[t]-∅-[e]s xéʔe  
+> ʔeɬ e **ʔe**ʔúseʔs ném y̓emíns xéʔe  
+ʔeɬ e=**ʔe~**&ZeroWidthSpace;ʔúseʔ-s ném y̓e-mín-[t]-∅-[e]s xéʔe  
 and DET=**IRED~**&ZeroWidthSpace;egg-3POSS very good-RLT-TR-3OBJ-3ERG DEM  
 ‘And the duck eggs, he really liked those.’ (KBG)
 
@@ -41,13 +41,13 @@ Infixes are marked with angle brackets (<>).  Infixes are:
 - the plural (\<PL\>)
 
 ...plus the following, which can be either infixes *or* suffixes depending on the characteristics of the stem (T&T 1992:88-89, 99, 111):
-- the characteristic (~CHR)
-- the out-of-control (~OOC)
-- the proportional (~PRP)
+- the characteristic (~CHR or \<CHR\>)
+- the out-of-control (~OOC or \<OOC\>)
+- the proportional (~PRP or \<PRP\>)
 
 For example:
-> ƛ̓é**ƛ̓**zm xéʔe tk scúw e záq̓m tuw e píx̣m̓.  
-ƛ̓é&ZeroWidthSpace;**\<ƛ̓>**&ZeroWidthSpace;z-m xéʔe t=k=s-cúw e=záq̓-m tuw=e=píx̣-m̓  
+> ƛ̓é**ƛ̓**zm xéʔe tk scúw e záq̓m tuwe píx̣m̓.  
+ƛ̓é&ZeroWidthSpace;**\<ƛ̓>**&ZeroWidthSpace;z-m xéʔe t=k=s-cúw e=záq̓-m tu=e=píx̣-m̓  
 easy&ZeroWidthSpace;**\<DIM>**-CTR.MID DEM OBL=DET=NMLZ-do D/C=bake.bread-CTR.MID from=D/C=hunt-CTR.MID  
 ‘It’s easier to bake bread than to hunt.’
 (Hall, 2023; BP)
@@ -79,21 +79,22 @@ finish **D/C=NMLZ**=split-CTR-TR-3OBJ-3ERG
 ‘S/he finished splitting them.’ (Kroeber, 1999:209)
 
 Clitics that are **separate** from their host in the transcription line (like *e=* 'DET' above) are:
-- indicative subject-markers
-- subjunctive subject-markers
+- complementizers
 - determiners
 - determiner/complementizers
 - evidentials
-- the question marker
 - prepositions (OBL, etc.)
+- the question marker
+- indicative subject-markers
+- subjunctive subject-markers
 
 Clitics that are **attached** to their host in the transcription line (like *s=* 'NMLZ' above) are:
 - possessive subject-markers
 - the nominalizer
 
 Finally, some clitic clusters are written in the transcription line separate from their stem, but attached to one another.  For example, this is typical with combinations of OBL and a DET or D/C:
->ƛ̓uʔ nem y̓e **tk** sɬaʔx̣áns  
-ƛ̓uʔ nem y̓e **t=k**=s-ɬaʔx̣-áns  
+>ƛ̓uʔ ném y̓é **tk** sɬaʔx̣áns  
+ƛ̓uʔ ném y̓é **t=k**=s-ɬaʔx̣-áns  
 also very good **OBL=DET**=NMLZ-eat-tooth  
 ‘They are good to eat.’ (CMA)
 
@@ -125,12 +126,12 @@ Both options convey what's going on, they just differ in how much they unpack th
         steal-RLT-TR-3OBJ-3ERG
     - If the morpheme is partly realized in the gloss line, include the full morpheme in the segmentation line and put just the unrealized part in brackets.  For example:
         > náq̓ʷms  
-        náq̓ʷ-**m[in]**[-t]-∅-s  
+        náq̓ʷ-**m[in]**[-t]-∅-[e]s  
         steal-RLT-TR-3OBJ-3ERG
     - If the morpheme has undergone a phonological process but is clearly still identifiable in the transcription line (e.g., underlying 't' and 's' are frequently captured as 'c' in the transcription), include the morpheme in the segmentation line with no brackets or special treatment.  For example:
-        > snescút  
-        s=nes-**t-sút**  
-        NMLZ=go-TR-REFL
+        > snescúts  
+        s=nes-**t-sút**=s  
+        NMLZ=go-TR-REFL=3POSS
 - Include null morphemes (with ∅ in the segmentation line, and no special treatment in the gloss line).  These convey important information to the reader!
 - No brackets used in the gloss line - the gloss for a bracketed morpheme can be written as normal.
 
@@ -151,10 +152,10 @@ Both options convey what's going on, they just differ in how much they unpack th
 - <u>DISC (discourse marker): ʔo</u>
 - <u>DVL (developmental): wiʔx</u>
 - EMPH (emphatic): cə, wiʔ
-- <u>EXCM (exclamatory): téywey, ʔú</u>
+- <u>EXCM (exclamatory): téywiʔ, ʔú</u>
 - IMM (immediate): t
 - INCH (inchoative): p, or reduplicating i.e., no canonical form
-- IND (indirective applicative): x [needs a new gloss b/c IND is Leipzig for indicative]
+- INDR (indirective applicative): x
 - INDEP (independent):
     |  Gloss | Form  |
     |---|---|
@@ -165,15 +166,12 @@ Both options convey what's going on, they just differ in how much they unpack th
     | <u>**2PL**.INDEP</u> | pyépst |
     | <u>**3PL**.INDEP</u> | cənkʷúst |
 - INFER (inferring evidential): nke
-- INT (introductory): e
 - LC (limited control (transitive with -t)): nwén̓
 - LC.MID (limited control middle): nwéɬn
 - <u>MOD (modal): ƛ̓əp</u>
 - <u>OOC (out-of-control): reduplicating i.e., no canonical form</u>
 - PROSP (prospective): xʷúy̓
 - PRP (proportional): reduplicating i.e., no canonical form
-- <u>PRSM (presumptive): ske</u>
-- <u>Q/INDF</u> (question/indefinite): hén̓</u>
 - <u>QLT (qualitative): t</u>
 - RLT (relational): min
 - RPRT (reportative evidential): ekʷu
@@ -182,12 +180,15 @@ Both options convey what's going on, they just differ in how much they unpack th
 - SENSE (sensing evidential): nukʷ
 - STAT (stative): ʔes
 - WN (weak necessity modal): seʔ, ske
+- <u>WH</u> (wh-word): hén̓</u>
+
 
 ### Leipzig Glosses (Comrie et al., 2008)
 - BEN (benefactive): x(i) [to be reviewed; a.k.a. 'indirective']
 - CAUS (causative): s
 - <u>COMP (complementizer) / HYP (hypothetical)</u>: ʔe
 - COMPL (completive): ƛ̓əm̓
+- COP (copula): e
 - DET (determiner): he, k, ɬ
 - ERG (ergative):
     |  Gloss | Form  |
