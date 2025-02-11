@@ -6,7 +6,7 @@ Based on a four-line gloss style (i.e., transcription, segmentation, gloss, tran
 Unless otherwise specified, examples are from Hannon et al. (2023).  Examples are marked with the initals of their speaker, as follows:
  - CMA: *C̓úʔsinek* (Marty Aspinall)
  - BP: Bev Phillips
- - KBG: *Kʷəɬtèzetkʷuʔ* (Bernice Garcia)
+ - KBG: *Kʷaɬtəzétkʷu* (Bernice Garcia)
 
 Our starting point was provided by the Nɬeʔkepmxcín grammar (Thompson and Thompson, 1992) and Nɬeʔkepmxcín-English dictionary (Thompson and Thompson, 1996).
 
