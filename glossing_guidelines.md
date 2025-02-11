@@ -71,11 +71,11 @@ Clitics are marked with an equals sign (=).  The following morphemes are clitics
 - the weak necessity modals (=WN)
 - 'yet'/'still' (i.e., =y̓)
 
-Note that clitics are the one case where there can be discrepancies in **word boundaries** between the transcription line vs. the segmentation and gloss lines.  Consider the example below.  The clitic *e=* 'DET' is written as a separate word in the transcription line, but attached to the stem in the segmentation and gloss lines.  But this is not the case for all clitics, as *s=* 'NMLZ' is attached to the stem in all three lines.  In summary, all clitics will be attached to the stem in the segmentation and gloss lines, but whether or not they're attched in the transcription line is just based on orthographic convention and varies by clitic.
-> ʔeɬ xeym tʔé tʔé témn̓ **s**wéwtiyxs **e** séytknmx kwntiyxs e néʔ eh s ʔe sutn  
-ʔeɬ xeym tʔé tʔé témn̓ **s=**&ZeroWidthSpace;wéw[-n]-t-∅-iyxs **e=**&ZeroWidthSpace;séytkn-mx kwn[-n]-t-∅-iyxs e=néʔ eh s ʔe=sutn  
-and indeed DEM DEM then **NMLZ=**&ZeroWidthSpace;call-CTR-TR-3OBJ-3PL.ERG **DET=**&ZeroWidthSpace;people-person get-CTR-TR-3OBJ-3PL.ERG D/C=DEM eh s DET=thing  
-‘Long time ago, when the women used to gather and dance, they would call the people, and they grabbed something.’ (CMA)
+Note that clitics are the one case where there can be discrepancies in **word boundaries** between the transcription line vs. the segmentation and gloss lines.  Consider the example below.  The clitic *e=* 'D/C' is written as a separate word in the transcription line, but attached to the stem in the segmentation and gloss lines.  But this is not the case for all clitics, as *s=* 'NMLZ' is attached to the stem in all three lines.  In summary, all clitics will be attached to the stem in the segmentation and gloss lines, but whether or not they're attched in the transcription line is just based on orthographic convention and varies by clitic.
+> cúkʷ **e** **s**pékʷes  
+cúkʷ **e=s**=pékʷ-n-[t]-Ø-[e]s  
+finish **D/C=NMLZ**=split-CTR-TR-3OBJ-3ERG  
+‘S/he finished splitting them.’ (Kroeber, 1999:209)
 
 Clitics that are **separate** from their host in the transcription line (like *e=* 'DET' above) are:
 - indicative subject-markers
@@ -96,21 +96,13 @@ Finally, some clitic clusters are written in the transcription line separate fro
 also very good **OBL=DET**=NMLZ-eat-tooth  
 ‘They are good to eat.’ (CMA)
 
-<u>A list of clitics we cluster together in the orthography</u>:
-
-- *k=eʔ= (k=éʔ=)* (always x6) (D/C=2SG.POSS=)
-- *k=s=* (sometimes) (D/C=NMLZ=)
-- *n=e=* (sometimes) (at=DET=)
-- *t=e=* (sometimes) (OBL=DET=)
-- *t=ə=* (always) (OBl=DET=)
-- *te=k=* (always x1) (OBL=DET=)
-- *tə=k=* (always) (OBL=DET=, OBL=D/C=)
-- *t=k=* (almost always) (OBL=DET=)
-- *təw=e* (always x2) (from=D/C=)
-- *w=e=* (sometimes) (to=DET=)
-- *we=ɬ* (always x2) (to=DET=)
-- *k=e=s=* (x1) (D/C=IPFV=NMLZ=)
-- *t=e=s=* (x1) (OBL=DET=NMLZ=)
+<u>These clitic clusters consist of a preposition followed by a determiner or determiner/complementizer.  Some examples are</u>:
+- *n=e=* (at=DET=)
+- *tu=e* (from=D/C=)
+- *t=e=*, *t=ə=*, *t=k=* (OBL=DET=)
+- *t=k=* (OBL=D/C=)
+- *w=e=*, *we=ɬ=* (to=DET=)
+- etc.
 
 ## Capturing Unrealized Morphology
 Because of phonological processes, there is often a conflict between wanting to capture what is pronounced vs. what is underlying.  This frequently comes up with transitive morphology.  For example, consider a transitive form of *cún* 'say':
@@ -261,6 +253,8 @@ Comrie, Bernard, Martin Haspelmath, and Balthasar Bickel. 2008.  The Leipzig Glo
 Hall, Brent. 2023. A Brief Look at Infinitives in Nɬeʔkepmxcín. In Proceedings of the 58th International Conference on Salish and Neighbouring Languages (ICSNL), 85–93. Vancouver, Canada: University of British Columbia Working Papers in Linguistics.
 
 Hannon, Ella, Anna Stacey, and Reed Steiner. 2023. Glossed Conversational Data in Nɬeʔkepmxcín. In Proceedings of the 58th International Conference on Salish and Neighbouring Languages (ICSNL), 117–158. Vancouver, Canada: University of British Columbia Working Papers in Linguistics.
+
+Kroeber, Paul D. 1999.  The Salish Language Family: Reconstructing Syntax.  Lincoln, Nebraska: University of Nebraska Press.
 
 Thompson, Laurence C. & M. Terry Thompson. 1992. The Thompson Language (University of
 Montana Occasional Papers in Linguistics 8).
