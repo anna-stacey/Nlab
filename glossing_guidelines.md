@@ -1,5 +1,5 @@
-# Nɬab Glossing Guidelines
-##### Compiled by Anna Stacey
+# nɬab Glossing Guidelines
+##### A summary of the current glossing practices used by [the nɬeʔkepmxcín lab (nɬab)](https://blogs.ubc.ca/nlab/) at UBC.  Compiled by Anna Stacey with help from Brent Hall.
 
 Based on a four-line gloss style (i.e., transcription, segmentation, gloss, translation).
 
@@ -8,7 +8,7 @@ Unless otherwise specified, examples are from Hannon et al. (2023).  Examples ar
  - BP: Bev Phillips
  - KBG: *Kʷaɬtəzétkʷu* (Bernice Garcia)
 
-Our starting point was provided by the Nɬeʔkepmxcín grammar (Thompson and Thompson, 1992) and Nɬeʔkepmxcín-English dictionary (Thompson and Thompson, 1996).
+Our starting point was provided by the nɬeʔkepmxcín grammar (Thompson and Thompson, 1992) and nɬeʔkepmxcín-English dictionary (Thompson and Thompson, 1996).
 
 ## Morpheme Boundaries
 
