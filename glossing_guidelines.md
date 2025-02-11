@@ -20,7 +20,7 @@ The hyphen (-) is the default boundary used to separate morphemes.
 Note that this includes lexical suffixes, as they are not indicated by their own boundary type (unlike for Thompson and Thompson (1992, 1996), who used '=' for this purpose).
 
 #### Reduplicating Morphemes
-Reduplication is marked with a tilde (~), unless the morpheme is also an infix, in which case it justs get infixing marking (see [next section](#infixes)).  Reduplicating affixes are:
+Reduplication is marked with a tilde (~), unless the morpheme is also an infix, in which case it just gets infixing marking (see [next section](#infixes)).  Reduplicating affixes are:
 - initial reduplication (IRED~)
 - <u>the augmentative (AUG~) / plural (PL~)</u>
 - the characteristic (~CHR)
@@ -39,7 +39,8 @@ Infixes are marked with angle brackets (<>).  Infixes are:
 - the diminuitive (\<DIM\>)
 - the inchoative *ʔ* (not *ə́p*) (\<INCH\>)
 - the plural (\<PL\>)
-Plus the following, which can be either infixes *or* suffixes depending on the characteristics of the stem (T&T 1992:88-89, 99, 111):
+
+...plus the following, which can be either infixes *or* suffixes depending on the characteristics of the stem (T&T 1992:88-89, 99, 111):
 - the characteristic (~CHR)
 - the out-of-control (~OOC)
 - the proportional (~PRP)
