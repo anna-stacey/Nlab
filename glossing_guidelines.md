@@ -193,9 +193,9 @@ Both options convey what's going on, they just differ in how much they unpack th
 - ERG (ergative):
     |  Gloss | Form  |
     |---|---|
-    | **1SG**.ERG | -ene |
+    | **1SG**.ERG | -ene with 3OBJ, -n elsewhere |
     | **2SG**.ERG | -exʷ |
-    | **1PL**.ERG | -em |
+    | **1PL**.ERG | -em with 3OBJ, -et elsewhere |
     | **2PL**.ERG | -ep |
     | **3**ERG | -es |
 - EXCL (exclusive): ƛ̓uʔ
@@ -207,21 +207,21 @@ Both options convey what's going on, they just differ in how much they unpack th
 - OBJ (object):
     |  Gloss | Form  |
     |---|---|
-    | **1SG**.OBJ | -cem |
+    | **1SG**.OBJ | -sem with 2SG.ERG, 3ERG, -sey with 2PL.ERG or PASS |
     | **2SG**.OBJ | -si |
-    | **1PL**.OBJ | -<u>ey</u> |
-    | **2PL**.OBJ | -im |
+    | **1PL**.OBJ | -ey |
+    | **2PL**.OBJ | -uym |
     | **3**OBJ | -∅ |
 - OBL (oblique): te
-- <u>PASS (passive): em</u>
+- PASS (passive): me with 1SG.OBJ, -et with 2SG.OBJ, 1PL.OBJ, 2PL.OBJ, em with 3OBJ
 - POSS (possessive):
     |  Gloss | Form  |
     |---|---|
-    | **1SG**.POSS | n= |
-    | **2SG**.POSS | eʔ= |
-    | **1PL**.POSS | =kt |
-    | **2PL**.POSS | =mp |
-    | **3**POSS | =s |
+    | **1SG**.POSS | n-, n= |
+    | **2SG**.POSS | eʔ-, eʔ= |
+    | **1PL**.POSS | -kt, =kt |
+    | **2PL**.POSS | -mp, =mp |
+    | **3**POSS | -s, =s |
 - Q (question marker): keʔ, n̓
 - REFL (reflexive): cut
 - <u>RES (resultative): e</u>
